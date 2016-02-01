@@ -35,4 +35,4 @@ Re-Make of our Global Game Jam game from 2016
 ####Code Ettiquette: 
 >In the **master** branch, code should preferably be easy to read and documented. 
 >
->In other branches, anything goes, but code should be documented before merging with Master.
+>In other branches, anything goes, but code should be documented before merging with **master**.
